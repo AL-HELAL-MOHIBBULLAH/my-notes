@@ -1,0 +1,13 @@
+.nav-container{
+    display: flex;
+    font-size: 1.4rem;
+    justify-content: space-around;
+    height: 5rem;
+    align-items: center;
+    
+}
+
+.nav-container .nav-item a{
+    text-decoration: none;
+ 
+}

@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+    color: #FFFFFF;
+    
+}
+
+body{
+    background-color: #36454F;
+    line-height: 1.6;
+}
+.primary-color{
+   background-color: #2C3E50;
+   /* Use: Background color for your header, footer, and navigation bar. */
+}
+.secondary-color{
+    color: #1ABC9C;
+    /* Use: Accent color for buttons, links, and highlights. */
+}
+
+.text-color{
+    color: #FFFFFF;
+    /* Use: Primary text color for readability. */
+}
+
+.highlight-color{
+    color: #F1C40F;
+    /* Use: Highlights, important notes, or any call-to-action elements. */
+
+}
+
+.complementary-color{
+    color:  #FF7F50;
+}
+
+
+
